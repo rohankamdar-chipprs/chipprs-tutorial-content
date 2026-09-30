@@ -1,6 +1,6 @@
 {
   "id": "quick-start",
-  "version": "online-1",
+  "version": "online-2",
   "steps": [
     {"id":"welcome","title":"Welcome to Chipprs","screens":{"top":"tutorial","bottom":"covered"},"body":["This quick tutorial will show you everything you need to start playing.","Follow the instructions on this screen and try each action yourself.","You can use Back, Skip Step or End Tutorial at any time."]},
     {"id":"open-practice-range","title":"Open the Practice Range","screens":{"top":"tutorial","bottom":"exposed"},"media":{"type":"gif","src":"gspro-open-practice-range.gif","alt":"Tapping Practice, then Practice Range in GSPro"},"body":["On the bottom screen, tap Practice, then tap Practice Range.","The animation shows you exactly where to press.","Once you have done that, press Next."]},
