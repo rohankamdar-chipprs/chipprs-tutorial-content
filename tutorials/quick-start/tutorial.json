@@ -1,6 +1,6 @@
 {
   "id": "quick-start",
-  "version": "online-3",
+  "version": "online-4",
   "steps": [
     {
       "id": "welcome",
@@ -103,7 +103,7 @@
       },
       "body": [
         "Tap:",
-        "•••• → End Round",
+        ":: → End Round",
         "Then tap Next."
       ]
     },
